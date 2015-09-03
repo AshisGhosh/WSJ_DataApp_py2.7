@@ -1,0 +1,9 @@
+('C:\\Users\\Ashis\\workspace\\WSJ_DataApp_py2.7\\src\\dist\\Main.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1441282154L)
